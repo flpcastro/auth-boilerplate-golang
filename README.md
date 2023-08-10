@@ -2,7 +2,7 @@
     <img alt="Golang Logo" title="Golang Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="300" height="300">
 </div>
 
-# TEMPLATE GOLANG - KUKAC
+# BOILERPLATE GOLANG - AUTH
 
 ## O que é necessário para testar essa aplicação?
 
